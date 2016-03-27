@@ -1,3 +1,4 @@
+/** Ein erster Kommentar */
 package fuhrpark;
 
 public class Auto {
