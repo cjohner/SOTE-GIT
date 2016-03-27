@@ -10,6 +10,7 @@ public class Auto {
 		tachostand += km;
 	}
 
+	/* Wir haben keine setTachostand()-Methode */
 	public int getTachostand() {
 		return tachostand;
 	}
