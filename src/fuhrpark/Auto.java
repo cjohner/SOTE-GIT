@@ -13,10 +13,6 @@ public class Auto {
 		return tachostand;
 	}
 
-	public void setTachostand(int tachostand) {
-		this.tachostand = tachostand;
-	}
-
 	public Fahrer getFahrer() {
 		return fahrer;
 	}
